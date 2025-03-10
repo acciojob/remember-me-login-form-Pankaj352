@@ -53,9 +53,11 @@ button:hover {
 }
 
 #existing {
+    display: none;
     margin-top: 10px;
     background-color: #007bff;
 }
+
 
 #existing:hover {
     background-color: #0056b3;
